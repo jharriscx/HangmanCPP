@@ -1,2 +1,2 @@
 # HangmanCPP
-Hangman writtin in CPP
+Hangman written in CPP by jharris
