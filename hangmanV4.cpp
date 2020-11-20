@@ -113,7 +113,7 @@ void drawGallows (int guess)
 	system ("clear");
 	cout << "Hangman Game for the *nix Console"
 		<< endl;
-	cout << "by: Slid3r" << endl;
+	cout << "by: jharris" << endl;
 	cout << "\n" << endl;
 	cout << a;
 	cout << b;
